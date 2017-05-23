@@ -14,8 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string-array name="dialer_default_classes" translatable="false">
-        <item>com.android.dialer/com.android.dialer.DialtactsActivity</item>
-        <item>com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity</item>
-    </string-array>
+    <!-- Dual sim card color -->
+    <color name="default_sim_icon_tint_color_custom">@*android:color/accent_device_default_light</color>
 </resources>
