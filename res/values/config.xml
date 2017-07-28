@@ -224,4 +224,7 @@
 
     <!-- Whether the cellular radio is allowed to be power down when the Bluetooth can provide the data/call capabilities -->
     <bool name="config_allowRadioPowerDownOnBluetooth">false</bool>
+
+    <!-- Flag to enable VVM3 visual voicemail. VVM3 is used by Verizon Wireless. -->
+    <bool name="vvm3_enabled">true</bool>
 </resources>
